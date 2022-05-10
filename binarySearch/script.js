@@ -1,3 +1,5 @@
+// O(log n)
+
 function binarySearch(num, arr) {
 
     let high = arr.length-1,
